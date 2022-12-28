@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "cstdio": "cpp",
+        "stdint.h": "c"
+    }
+}
