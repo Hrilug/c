@@ -4,5 +4,5 @@
 void main()
 {
 	char key[3][10]={"hello","world"};
-	printf("%s %s\n", key[0],key[1]);
+	printf("%s %s\n", key[0][2],key[1][1]);
 }

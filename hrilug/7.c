@@ -1,7 +1,11 @@
 #include<stdio.h>
 
+enum booler{
+    False,True
+}a,b;
+
 void main(){
-    for(int i=0;i<=5;i++){
-        printf("%d",i);
-    }
+    a=False;
+    b=(enum booler)1;
+    printf("%d,%d",a,b);
 }
